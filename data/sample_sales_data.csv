@@ -1,0 +1,58 @@
+order_date,region,product_category,sub_category,customer_segment,sales,revenue,profit,units,discount
+2023-01-05,North America,Technology,Phones,Corporate,25400,30000,4600,45,0.05
+2023-01-12,Europe,Furniture,Chairs,Consumer,12800,15400,2600,38,0.04
+2023-01-20,Asia,Office Supplies,Paper,Home Office,5400,6300,900,120,0.02
+2023-02-03,North America,Technology,Accessories,Corporate,8700,9400,700,64,0.03
+2023-02-15,Latin America,Furniture,Tables,Small Business,15200,18400,3200,22,0.06
+2023-02-21,Europe,Office Supplies,Binders,Consumer,6900,7600,700,90,0.01
+2023-03-02,Asia,Technology,Phones,Corporate,23100,27000,3900,40,0.05
+2023-03-11,North America,Furniture,Chairs,Small Business,17500,21000,3500,30,0.04
+2023-03-19,Europe,Technology,Accessories,Home Office,6400,6900,500,55,0.03
+2023-04-07,Asia,Furniture,Tables,Consumer,9800,11800,2000,18,0.05
+2023-04-21,Latin America,Office Supplies,Storage,Corporate,7200,8100,900,95,0.02
+2023-04-30,North America,Technology,Phones,Consumer,26500,32000,5500,47,0.04
+2023-05-08,Europe,Furniture,Sofas,Corporate,19800,24200,4400,16,0.05
+2023-05-17,Asia,Office Supplies,Paper,Small Business,6100,6800,700,130,0.02
+2023-05-26,North America,Technology,Accessories,Home Office,8200,8900,700,58,0.03
+2023-06-04,Latin America,Furniture,Chairs,Consumer,9100,10300,1200,27,0.04
+2023-06-12,Europe,Office Supplies,Binders,Corporate,7600,8200,600,88,0.02
+2023-06-23,Asia,Technology,Phones,Small Business,21900,26200,4300,42,0.05
+2023-07-01,North America,Furniture,Tables,Corporate,14200,17000,2800,20,0.03
+2023-07-15,Europe,Technology,Accessories,Consumer,7300,7800,500,52,0.02
+2023-07-24,Asia,Office Supplies,Storage,Home Office,5600,6000,400,85,0.03
+2023-08-02,Latin America,Technology,Phones,Corporate,24500,29600,5100,44,0.04
+2023-08-19,North America,Furniture,Sofas,Consumer,21500,26000,4500,14,0.05
+2023-08-28,Europe,Office Supplies,Paper,Small Business,5900,6400,500,110,0.02
+2023-09-06,Asia,Technology,Accessories,Corporate,8800,9500,700,60,0.03
+2023-09-18,North America,Furniture,Chairs,Home Office,16400,19800,3400,28,0.04
+2023-09-29,Latin America,Office Supplies,Binders,Consumer,6300,6800,500,92,0.01
+2023-10-08,Europe,Technology,Phones,Corporate,23800,28500,4700,43,0.04
+2023-10-16,Asia,Furniture,Tables,Consumer,10200,12400,2200,19,0.05
+2023-10-27,North America,Office Supplies,Storage,Corporate,7800,8500,700,97,0.02
+2023-11-04,Latin America,Technology,Accessories,Small Business,6700,7300,600,57,0.03
+2023-11-17,Europe,Furniture,Chairs,Home Office,15800,19200,3400,24,0.04
+2023-11-25,Asia,Office Supplies,Paper,Corporate,6200,6900,700,125,0.02
+2023-12-05,North America,Technology,Phones,Corporate,27200,33000,5800,49,0.04
+2023-12-14,Europe,Office Supplies,Storage,Consumer,7100,7700,600,100,0.02
+2023-12-22,Asia,Furniture,Sofas,Corporate,18600,23000,4400,15,0.05
+2023-12-30,Latin America,Technology,Phones,Home Office,23200,28000,4800,46,0.04
+2024-01-09,North America,Office Supplies,Binders,Small Business,6500,7000,500,93,0.02
+2024-01-18,Europe,Technology,Accessories,Corporate,9100,9900,800,63,0.03
+2024-01-26,Asia,Furniture,Chairs,Consumer,14800,17800,3000,26,0.04
+2024-02-05,Latin America,Office Supplies,Paper,Corporate,6000,6500,500,120,0.02
+2024-02-14,North America,Technology,Phones,Home Office,24800,30000,5200,48,0.05
+2024-02-23,Europe,Furniture,Tables,Consumer,11200,13400,2200,21,0.04
+2024-03-03,Asia,Office Supplies,Storage,Corporate,5800,6400,600,90,0.03
+2024-03-11,North America,Technology,Accessories,Corporate,8600,9200,600,59,0.03
+2024-03-20,Europe,Office Supplies,Paper,Small Business,5700,6200,500,115,0.02
+2024-03-29,Asia,Furniture,Tables,Home Office,9400,11200,1800,17,0.05
+2024-04-08,Latin America,Technology,Accessories,Consumer,7200,7800,600,56,0.03
+2024-04-17,North America,Furniture,Chairs,Corporate,16800,20000,3200,29,0.04
+2024-04-26,Europe,Office Supplies,Storage,Corporate,7500,8100,600,98,0.02
+2024-05-05,Asia,Technology,Phones,Consumer,22500,27000,4500,41,0.05
+2024-05-14,North America,Furniture,Tables,Home Office,13600,16200,2600,23,0.03
+2024-05-23,Europe,Technology,Phones,Small Business,21800,26000,4200,39,0.04
+2024-06-01,Latin America,Furniture,Sofas,Corporate,19400,23600,4200,13,0.05
+2024-06-10,Asia,Office Supplies,Binders,Consumer,6800,7400,600,87,0.02
+2024-06-19,North America,Technology,Accessories,Small Business,8300,8900,600,57,0.03
+2024-06-27,Europe,Furniture,Chairs,Corporate,17200,20600,3400,25,0.04
